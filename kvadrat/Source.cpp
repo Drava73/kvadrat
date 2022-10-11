@@ -24,6 +24,6 @@ int main() {
 	setlocale(LC_ALL, "ru");
 	CircleinSquare obj;
 	obj.cir();
-	cout << " â ";
+	cout << "  â  ";
 	obj.squ();
 }
